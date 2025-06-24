@@ -28,3 +28,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
 </p>
+![Samuele's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musalee-02&theme=ligth&show_icons=true&hide_border=true&layout=compact)
+
+
+
