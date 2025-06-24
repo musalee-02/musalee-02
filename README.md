@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://github.com/musalee-02">
-    <img src="https://img.shields.io/badge/Hi%20👋,%20I'm-Samuele-pink?style=for-the-badge&logo=heart" alt="Hi, I'm Samuele">
+    <img src="https://img.shields.io/badge/Hi%20👋,%20I'm-Samuele-blueviolet?style=for-the-badge&logo=github" alt="Hi, I'm Samuele">
   </a>
 </p>
 
